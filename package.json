@@ -1,6 +1,6 @@
 {
   "name": "node-model-validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy to implement validator for javascript models",
   "main": "index.js",
   "directories": {
