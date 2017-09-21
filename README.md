@@ -3,6 +3,9 @@
 
 [![npm package](https://nodei.co/npm/node-model-validation.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-model-validation/)
 
+
+[![Build Status](https://travis-ci.org/SpenceSouth/node-model-validation.svg?branch=master)](https://travis-ci.org/SpenceSouth/node-model-validation)
+
 ## Installation
 ```
 npm install node-model-validation --save
