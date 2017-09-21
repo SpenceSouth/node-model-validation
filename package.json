@@ -1,0 +1,32 @@
+{
+  "name": "node-model-validation",
+  "version": "1.0.0",
+  "description": "Easy to implement validator for javascript models",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --coverage",
+    "standard": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpenceSouth/node-model-validation.git"
+  },
+  "keywords": [
+    "node",
+    "model-validator",
+    "validator",
+    "restify-validator",
+    "restify-model-validator"
+  ],
+  "author": "Spence Southard",
+  "license": "ISC",
+  "homepage": "https://github.com/SpenceSouth/node-model-validation#readme",
+  "devDependencies": {
+    "jest": "^21.1.0",
+    "standard": "^10.0.3"
+  }
+}
