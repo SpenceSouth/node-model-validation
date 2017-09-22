@@ -5,7 +5,7 @@
 
 
 [![Build Status](https://travis-ci.org/SpenceSouth/node-model-validation.svg?branch=master)](https://travis-ci.org/SpenceSouth/node-model-validation)
-[![Coverage Status](https://coveralls.io/repos/github/SpenceSouth/node-model-validation/badge.svg?branch=master)](https://coveralls.io/github/SpenceSouth/node-model-validation?branch=master)
+
 
 ## Installation
 ```
